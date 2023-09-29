@@ -1,6 +1,7 @@
 ---
 title: "About me"
 permalink: /aboutme/
+layout: default
 ---
 
 I am an evolutionary biologist with a particular interest in utilising genomics techniques for the protection and unserstanding of public health and environment.
