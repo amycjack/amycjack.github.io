@@ -110,9 +110,6 @@ author:
   location         : "London, UK"
   email            : "a.jackson2@kew.org"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:a.jackson2@kew.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/amycjack"
@@ -144,6 +141,7 @@ footer:
 
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
