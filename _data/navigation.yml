@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: /_pages/aboutme
+    url: /_pages/aboutme/
   - title: "Tutorials"
     url: /year-archive/
   - title: "Repos"
