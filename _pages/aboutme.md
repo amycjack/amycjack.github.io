@@ -1,7 +1,14 @@
 ---
 title: "About me"
 permalink: /aboutme/
-layout: default
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 I am an evolutionary biologist with a particular interest in utilising genomics techniques for the protection and unserstanding of public health and environment.
