@@ -14,7 +14,6 @@ This week's TidyTuesday is representing the [USA haunting index](https://www.the
 
 Click here for the repo.
 
-
 ![This is an image](/images/plot13102023.png)
 
 
