@@ -25,7 +25,7 @@ url                      : "https://amycjack.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/amycjack"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/r5-aiJGe_400x400.jpg"
+logo                     : # "/images/r5-aiJGe_400x400.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Amy Jackson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/r5-aiJGe_400x400.jpg"
   bio              : "Currently a Research Associate in Crop Genomics at RBG Kew. I specalise in using genomics to understanding adaptation and diversification of plants"
   location         : "London, UK"
   email            : "a.jackson2@kew.org"
