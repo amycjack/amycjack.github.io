@@ -6,7 +6,7 @@ main:
     url: /aboutme/
   - title: "Posts"
     url: /year-archive/
-  - title: "Repos"
+  - title: "Bioinformatic Repo"
     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
