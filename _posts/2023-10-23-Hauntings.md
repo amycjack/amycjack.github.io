@@ -1,12 +1,9 @@
 ---
-layout: posts
-author_profile: true
-title: TidyTuesday and Haunted placed in the USA
-subtitle: A plot of the haunted places index.
-gh-repo: amycjack/ggtree_scipts
-gh-badge: [star, fork, follow]
-tags: [R, tidytuesday]
-comments: true
+layout: single
+title: "TidyTuesday and Haunted places in USA"
+date: "13 October, 2023"
+categories: bioinformatics data-visualisation tutorial
+tags: ggtree R phylogenetics
 ---
 
 
