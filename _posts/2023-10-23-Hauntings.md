@@ -1,7 +1,7 @@
 ---
 layout: posts
 author_profile: true
-title: TidyTuesday - Haunted placed in the USA
+title: TidyTuesday and Haunted placed in the USA
 subtitle: A plot of the haunted places index.
 gh-repo: amycjack/ggtree_scipts
 gh-badge: [star, fork, follow]
