@@ -1,7 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
-entries_layout: grid
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
 author_profile: true
 ---
