@@ -9,9 +9,11 @@ I am an evolutionary biologist with a particular interest in utilising genomics 
 
 ## Projects ##
 ### Canary Island plants ###
-<img align="right" src="/images/IMG_1588.JPG" width="400px"/>
+<img align="right" src="/images/IMG_1588.JPG" width="100px"/>
 
-  My PhD research focused on using the island model system, the Canary Islands, to understand the diversification and adaptation of endemic plants using genomic techniques. 
+My PhD research focused on using the island model system, the Canary Islands, to understand the diversification and adaptation of endemic plants using genomic techniques. My focal group is Canary Island Descurainia (Brassicaceae), with seven species distributed across four islands. 
+
+
 
 
 ***Scientific Publications***
@@ -24,7 +26,7 @@ I am an evolutionary biologist with a particular interest in utilising genomics 
 
  
 ### The domestication of orphan crops ###
-<img align="left" src="/images/WhatsApp%20Image%202024-01-04%20at%2015.15.22_2c8e552a.jpg" width="400px"/>
+<img align="left" src="/images/WhatsApp%20Image%202024-01-04%20at%2015.15.22_2c8e552a.jpg" width="100px"/>
 My latest role at Kew Gardens is pivoted towards orphan crops - indigenous crops that are not typically internationally traded - with aims to accelerate their domesticated through genomics and gene-editing techniques.
 
 Read more on fonio [here](https://www.kew.org/read-and-watch/fonio-journey-in-guinea)
