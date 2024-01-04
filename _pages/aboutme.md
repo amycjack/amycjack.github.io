@@ -9,7 +9,7 @@ I am an evolutionary biologist with a particular interest in utilising genomics 
 
 ## Projects ##
 ### Canary Island plants ###
-![Banner Image](github.com/amycjack/amycjack.github.io/blob/master/images/IMG_1588.JPG)
+![Descurainia bourgaeana](/images/IMG_1588.JPG)
 
 
 My PhD research focused on using the island model system, the Canary Islands, to understand the diversification and adaptation of endemic plants using genomic techniques.
@@ -22,7 +22,7 @@ My PhD research focused on using the island model system, the Canary Islands, to
 
 - 📰 [Wildfires have wreaked havoc this summer – these plants were prepared](https://theconversation.com/wildfires-have-wreaked-havoc-this-summer-these-plants-were-prepared-212669)
 
-
+ 
 ### The domestication of orphan crops ###
 
 My latest role at Kew Gardens is pivoted towards orphan crops - indigenous crops that are not typically internationally traded - with aims to accelerate their domesticated through genomics and gene-editing techniques.
