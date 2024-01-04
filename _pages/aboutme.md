@@ -9,14 +9,19 @@ I am an evolutionary biologist with a particular interest in utilising genomics 
 
 ## Projects ##
 ### Canary Island plants ###
-[Project 1 Title](/sample_page)
-<img src="github.com/amycjack/amycjack.github.io/blob/master/images/IMG_1588.JPG"/>
+![Banner Image](github.com/amycjack/amycjack.github.io/blob/master/images/IMG_1588.JPG)
+
 
 My PhD research focused on using the island model system, the Canary Islands, to understand the diversification and adaptation of endemic plants using genomic techniques.
 
-*Media*
-[Jackson et al. 2023](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16162).
-[Jackon et al. 2023](https://theconversation.com/wildfires-have-wreaked-havoc-this-summer-these-plants-were-prepared-212669)
+#### Scientific Publications
+
+- 📚 [The role of geography, ecology, and hybridization in the evolutionary history of Canary Island Descurainia](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16162)
+
+#### Science Communication Articles
+
+- 📰 [Wildfires have wreaked havoc this summer – these plants were prepared](https://theconversation.com/wildfires-have-wreaked-havoc-this-summer-these-plants-were-prepared-212669)
+
 
 ### The domestication of orphan crops ###
 
