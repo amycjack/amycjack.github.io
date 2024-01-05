@@ -7,6 +7,6 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Bioinformatic Repo"
-    url: /collection-archive/
+    url: https://github.com/amycjack
   # - title: "Sitemap"
   #   url: /sitemap/
