@@ -2,8 +2,8 @@
 main:
   - title: "About Me"
     url: /aboutme/
-  - title: "CV"
-    url: /aboutme/
+  - title: "Data Viz"
+    url: /portfolio/
   - title: "Posts"
     url: /year-archive/
   - title: "Bioinformatic Repo"
