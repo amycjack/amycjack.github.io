@@ -16,4 +16,4 @@ author_profile: true
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO"><img src="https://github.com/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png" alt="Graph 6" width="50%" height="50%"></a>
 
 
-![Book logo](https://github.com/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png)
+![Book logo](/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png)
