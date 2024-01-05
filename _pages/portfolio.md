@@ -16,4 +16,5 @@ author_profile: true
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO"><img src="https://github.com/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png" alt="Graph 6" width="50%" height="50%"></a>
 
 
-![Book logo](/amycjack/TidyTuesdays/blob/main/25.10.22%20GBBO/gbbo3.png)
+
+![Book logo](https://github.com/amycjack/TidyTuesdays/blob/14e4728b3718198fe422ac003050cc77b4ef754b/01.11.22%20Horror%20Film/p04112022.png)
