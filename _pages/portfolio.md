@@ -8,16 +8,14 @@ author_profile: true
 <style>
   /* Hide full-sized images by default */
   .full-image {
-    display: none;
-    position: fixed; /* Position the full-size image relative to the viewport */
-    top: 50%; /* Center vertically */
-    left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%); /* Center the image precisely */
-    z-index: 999; /* Ensure the full-size image appears on top of other content */
+    opacity: 0;
+    position: absolute;
+    z-index: 1;
+    transition: opacity 0.3s ease;
   }
   /* Display full-sized images on hover */
   .thumbnail:hover + .full-image {
-    display: block;
+    opacity: 1;
   }
 </style>
 
@@ -82,3 +80,23 @@ Please hover for the full image, or click for the Github repo.
 <p>
 <p>
 <p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+
