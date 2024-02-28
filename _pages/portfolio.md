@@ -5,8 +5,29 @@ layout: single
 author_profile: true
 ---
 
+<style>
+  /* Hide full-sized images by default */
+  .full-image {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+  /* Display full-sized images on hover */
+  .thumbnail:hover + .full-image {
+    display: block;
+  }
+</style>
+
 
 ### TidyTuesdays
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines" class="thumbnail">
+    <img src="/images/plot14022024.png" alt="Graph 1" width="30%" height="30%">
+  </a>
+  <img src="/images/plot14022024.png" alt="Full Image 1" class="full-image">
+</div>
+
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines"><img src="/images/plot14022024.png" alt="Graph 1" width="30%" height="30%"></a>
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations"><img src="/images/plot13102023.png" alt="Graph 1" width="30%" height="30%"></a>
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/14.02.23%20Hollywood%20Age%20Gaps"><img src="/images/gg214022023.png" alt="Graph 2" width="30%" height="30%"></a>
