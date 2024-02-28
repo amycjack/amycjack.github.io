@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### TidyTuesdays
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations"><img src="/images/plot14022024.png" alt="Graph 1" width="30%" height="30%"></a>
+<a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines"><img src="/images/plot14022024.png" alt="Graph 1" width="30%" height="30%"></a>
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations"><img src="/images/plot13102023.png" alt="Graph 1" width="30%" height="30%"></a>
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/14.02.23%20Hollywood%20Age%20Gaps"><img src="/images/gg214022023.png" alt="Graph 2" width="30%" height="30%"></a>
 <a href="https://github.com/amycjack/TidyTuesdays/tree/main/24.01.23%20Survivor"><img src="/images/Rplot03.png" alt="Graph 3" width="30%" height="30%"></a>
