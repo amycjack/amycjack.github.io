@@ -20,6 +20,7 @@ author_profile: true
 </style>
 
 ### TidyTuesdays
+Please hover for the full image, or click for the Github repo.
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines" class="thumbnail">
