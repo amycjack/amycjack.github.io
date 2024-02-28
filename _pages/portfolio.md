@@ -27,9 +27,45 @@ author_profile: true
   </a>
   <img src="/images/plot14022024.png" alt="Full Image 1" class="full-image">
 </div>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations"><img src="/images/plot13102023.png" alt="Graph 1" width="30%" height="30%"></a>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/14.02.23%20Hollywood%20Age%20Gaps"><img src="/images/gg214022023.png" alt="Graph 2" width="30%" height="30%"></a>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/24.01.23%20Survivor"><img src="/images/Rplot03.png" alt="Graph 3" width="30%" height="30%"></a>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/08.11.22%20Radio%20Stations"><img src="/images/map10112022.png" alt="Graph 4" width="30%" height="30%"></a>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/01.11.22%20Horror%20Film"><img src="/images/p04112022.png" alt="Graph 5" width="30%" height="30%"></a>
-<a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO"><img src="/images/gbbo3.png" alt="Graph 6" width="30%" height="30%"></a>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations" class="thumbnail">
+    <img src="/images/plot13102023.png" alt="Graph 1" width="30%" height="30%">
+  </a>
+  <img src="/images/plot13102023.png" alt="Full Image 1" class="full-image">
+</div>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/14.02.23%20Hollywood%20Age%20Gaps" class="thumbnail">
+    <img src="/images/gg214022023.png" alt="Graph 3" width="30%" height="30%">
+  </a>
+  <img src="/images/gg214022023.png" alt="Full Image 3" class="full-image">
+</div>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/24.01.23%20Survivor" class="thumbnail">
+    <img src="/images/Rplot03.png" alt="Graph 4" width="30%" height="30%">
+  </a>
+  <img src="/images/Rplot03.png" alt="Full Image 4" class="full-image">
+</div>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/08.11.22%20Radio%20Stations" class="thumbnail">
+    <img src="/images/map10112022.png" alt="Graph 5" width="30%" height="30%">
+  </a>
+  <img src="/images/map10112022.png" alt="Full Image 5" class="full-image">
+</div>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/01.11.22%20Horror%20Film" class="thumbnail">
+    <img src="/images/p04112022.png" alt="Graph 6" width="30%" height="30%">
+  </a>
+  <img src="/images/p04112022.png" alt="Full Image 6" class="full-image">
+</div>
+
+<div class="image-container">
+  <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO" class="thumbnail">
+    <img src="/images/gbbo3.png" alt="Graph 7" width="30%" height="30%">
+  </a>
+  <img src="/images/gbbo3.png" alt="Full Image 7" class="full-image">
+</div>
