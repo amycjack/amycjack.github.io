@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-### What is TidyTuesday? <p>
-#TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.</p>
+### What is TidyTuesday?
+#TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
 <p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
-</p>
+
 <p>
 <center>
 <div class="image-container">
@@ -47,11 +47,8 @@ Below is a selection of my contributions to the #TidyTuesday challenge. All cont
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/01.11.22%20Horror%20Film" class="thumbnail">
     <img src="/images/p04112022.png" alt="Graph 6" width="50%" height="50%">
   </a>
-</div>
-
+  
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO" class="thumbnail">
     <img src="/images/gbbo3.png" alt="Graph 7" width="30%" height="30%">
   </a>
 </div>
-<p>
-</center>
