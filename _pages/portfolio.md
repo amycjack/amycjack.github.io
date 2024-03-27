@@ -15,41 +15,40 @@ Below is a selection of my contributions to the #TidyTuesday challenge. All cont
 <center>
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines" class="thumbnail">
-    <img src="/images/plot14022024.png" alt="Graph 1" width="30%" height="30%">
+    <img src="/images/plot14022024.png" alt="Graph 1" width="50%" height="50%">
   </a>
 </div>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/10.10.23%20Haunted%20Locations" class="thumbnail">
-    <img src="/images/plot13102023.png" alt="Graph 1" width="30%" height="30%">
+    <img src="/images/plot13102023.png" alt="Graph 1" width="50%" height="50%">
   </a>
 </div>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/14.02.23%20Hollywood%20Age%20Gaps" class="thumbnail">
-    <img src="/images/gg214022023.png" alt="Graph 3" width="30%" height="30%">
+    <img src="/images/gg214022023.png" alt="Graph 3" width="50%" height="50%">
   </a>
 </div>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/24.01.23%20Survivor" class="thumbnail">
-    <img src="/images/Rplot03.png" alt="Graph 4" width="30%" height="30%">
+    <img src="/images/Rplot03.png" alt="Graph 4" width="50%" height="50%">
   </a>
 </div>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/08.11.22%20Radio%20Stations" class="thumbnail">
-    <img src="/images/map10112022.png" alt="Graph 5" width="30%" height="30%">
+    <img src="/images/map10112022.png" alt="Graph 5" width="50%" height="50%">
   </a>
 </div>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/01.11.22%20Horror%20Film" class="thumbnail">
-    <img src="/images/p04112022.png" alt="Graph 6" width="30%" height="30%">
+    <img src="/images/p04112022.png" alt="Graph 6" width="50%" height="50%">
   </a>
 </div>
 
-<div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO" class="thumbnail">
     <img src="/images/gbbo3.png" alt="Graph 7" width="30%" height="30%">
   </a>
