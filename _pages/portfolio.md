@@ -5,12 +5,13 @@ layout: single
 author_profile: true
 ---
 
-<center>What is #TidyTuesday? 
-#TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data. =
-
+<center>
+### What is TidyTuesday? <p>
+#TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.</p>
+<p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
-
-### TidyTuesdays
+</p>
+<p>
 
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/13.02.24%20Valentines" class="thumbnail">
