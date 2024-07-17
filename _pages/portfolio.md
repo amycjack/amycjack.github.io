@@ -12,10 +12,10 @@ author_profile: true
     <img src="/images/SMBE_poster_lowres.png" alt="Graph 1" width="50%" height="50%">
   </a>
 </div>
-<p>
+<p><br>
   
 ### TidyTuesday
-#TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
+TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
 <p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
 
