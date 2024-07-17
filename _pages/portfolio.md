@@ -14,7 +14,6 @@ author_profile: true
 </div>
 <p><br>
 
-  [![Sketches of why we do this to maximize our productivity](https://github.com/amycjack/amycjack.github.io/blob/master/images/SMBE_poster_lowres.png)](https://github.com/amycjack/amycjack.github.io/blob/master/images/SMBE_poster_lowres.png)
 </center>
 
 ## TidyTuesday ##
