@@ -4,9 +4,16 @@ permalink: /portfolio/
 layout: single
 author_profile: true
 ---
+### Scientific Posters
 
+<center>
+<div class="image-container">
+  <a href="https://github.com/amycjack/amycjack.github.io/blob/master/images/SMBE_poster_lowres.png" class="thumbnail">
+    <img src="/images/SMBE_poster_lowres.png" alt="Graph 1" width="50%" height="50%">
+  </a>
+</div>
 
-### What is TidyTuesday?
+### TidyTuesday
 #TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
 <p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
@@ -46,9 +53,9 @@ Below is a selection of my contributions to the #TidyTuesday challenge. All cont
 <div class="image-container">
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/01.11.22%20Horror%20Film" class="thumbnail">
     <img src="/images/p04112022.png" alt="Graph 6" width="50%" height="50%">
-  </a>
+  </a><br>
   
   <a href="https://github.com/amycjack/TidyTuesdays/tree/main/25.10.22%20GBBO" class="thumbnail">
-    <img src="/images/gbbo3.png" alt="Graph 7" width="30%" height="30%">
+    <img src="/images/gbbo3.png" alt="Graph 7" width="40%" height="40%">
   </a>
 </div>
