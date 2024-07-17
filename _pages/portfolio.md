@@ -4,7 +4,7 @@ permalink: /portfolio/
 layout: single
 author_profile: true
 ---
-### Scientific Posters
+## Scientific Posters ##
 
 <center>
 <div class="image-container">
@@ -14,8 +14,8 @@ author_profile: true
 </div>
 <p><br>
   
-### TidyTuesday
-TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
+## TidyTuesday ##
+</center>TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
 <p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
 
