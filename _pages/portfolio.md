@@ -13,9 +13,11 @@ author_profile: true
   </a>
 </div>
 <p><br>
-  
+</center>
+
 ## TidyTuesday ##
-</center>TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
+
+TidyTuesday is a weekly data challenge aimed at the R community. Every week a new dataset is posted alongside a chart or article related to that dataset, and ask participants explore the data.
 <p>
 Below is a selection of my contributions to the #TidyTuesday challenge. All contributions and the code used to generate them can be found on GitHub.
 
