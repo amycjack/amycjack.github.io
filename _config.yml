@@ -80,7 +80,7 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter: 
+bsky: 
   username               : "amycjack"
 facebook:
   username               :
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Amy Jackson"
   avatar           : "/images/r5-aiJGe_400x400.jpg"
-  bio              : "Currently a Research Associate in Crop Genomics at RBG Kew. I specalise in using genomics to understanding adaptation and diversification of plants"
+  bio              : "Currently a Statistician in the Civil Service. Previsouly a Research Associate in Crop Genomics at RBG Kew. I specalise in using genomics to understanding adaptation and diversification of crops and island plants"
   location         : "London, UK"
-  email            : "a.jackson2@kew.org"
+  email            : "amyclarejackson@hotmail.co.uk"
   links:
-    - label: "Twitter"
+    - label: "Bsky/Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/amycjack"
+      url: "https://amycjack.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amycjack"
